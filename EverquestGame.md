@@ -1,5 +1,5 @@
 # IndividualProject
-Pay Station
+EverQuest Game
 Project Abstract
 
 At least one paragraph description of the overall project. Include a UML use case diagram or other helpful diagram.
